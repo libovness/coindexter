@@ -11909,6 +11909,10 @@ $(document).ready(function() {
 
 
 }).call(this);
+(function() {
+
+
+}).call(this);
 /* ========================================================================
  * bootstrap-switch - v3.0.2
  * http://www.bootstrap-switch.org
